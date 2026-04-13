@@ -9,6 +9,9 @@
 Use Windows with activated illegally, Activated Office by pirated servers might cause big problems later!
 - MongolOS doesn't need payment.
 
-In MongolOS, there is most common used apps will there!
+> In MongolOS, there is most common used apps will there!
 
-I think you might like MongolOS, Send your feedback to *mongolos_official@outlook.com*!
+- I think you might like MongolOS, Send your feedback to *mongolos_official@outlook.com*!
+
+# [Official Website of MongolOS](https://mongolos1162.github.io/)
+###### P.S. Avoid fake websites about MongolOS! They might include viruses!
