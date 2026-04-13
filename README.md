@@ -1,16 +1,14 @@
-## Hi there 👋
+# Language: Mongolian (Хэл: Монгол)
+**For language English, [click here](English_readme.md)**
 
-<!--
-**MongolOS1162/mongolos1162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Энэ GitHub Бүртгэл (Account) нь **MongolOS**-ын хөгжүүлэхэд зориулагдсан!
+- Миний GitHub Бүртгэл (Account): [@Ericwasepic127](https://github.com/Ericwasepic127)
 
-Here are some ideas to get you started:
+> _Монголын Үйлдлийн Систем_ **MongolOS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Windows-ыг төлбөргүй ашиглах, Office зэргийг hack хийх нь дараа нь маш том хохирол учруулж болзошгүй!
+- MongolOS нь төлбөр тооцоо хэрэггүй, үнэгүй Үйлдлийн Систем юм.
+
+Өдөр тутмын апп байх болно!
+
+Танд MongolOS таалагдна гэж найдаж байна, санал хүсэлтээ *mongolos_official@outlook.com* гэх E-mail (Цахим шуудан)-гаар явуулна уу!
