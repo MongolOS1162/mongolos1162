@@ -1,6 +1,8 @@
 # Language: Mongolian (Хэл: Монгол)
 **For language English, [click here](English_readme.md)**
 
+## ᠮᠣᠩᠭᠣᠯ ᠦᠢᠯᠡᠳᠦᠯ ᠦᠨ ᠰᠢᠰᠲ᠋ᠧᠮ
+
 > Энэ GitHub Бүртгэл (Account) нь **MongolOS**-ын хөгжүүлэхэд зориулагдсан!
 - Миний GitHub Бүртгэл (Account): [@Ericwasepic127](https://github.com/Ericwasepic127)
 
